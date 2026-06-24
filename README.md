@@ -12,7 +12,7 @@ This project analyzes 238,000 motor vehicle collisions reported by the NYPD from
 *   **Highest-Risk Time:** Friday afternoons (3-6 PM).
 
 ## Files in this Repository
-*   **[`NYC Collision Report.pdf`](./NYC%20Collision%20Report.pdf):** The final report containing all analysis, charts, and recommendations.
+*   **[`NYC Collision Report.pdf`](NYC Collision  Report.pdf):** The final report containing all analysis, charts, and recommendations.
 *   **[`NYC_Collision_Dashboard.pbix`](./NYC_Collision_Dashboard.pbix):** The Power BI source file used to build the dashboards. You can open this with Power BI Desktop.
 
 ## How to View the Dashboard
