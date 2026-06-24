@@ -19,3 +19,6 @@ This project analyzes 238,000 motor vehicle collisions reported by the NYPD from
 1.  Download the `.pbix` file from this repository.
 2.  Install **Power BI Desktop** (free) from the Microsoft website.
 3.  Open the `.pbix` file with Power BI Desktop to explore the interactive dashboards.
+
+
+https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Executive%20Summary.jpg
