@@ -21,6 +21,8 @@ This project analyzes 238,000 motor vehicle collisions reported by the NYPD from
 3.  Open the `.pbix` file with Power BI Desktop to explore the interactive dashboards.
 
 
-https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Executive%20Summary.jpg
-https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Time%20Analysis.jpg
+## Dashboard Overview
+![Dashboard - Page 1: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Executive%20Summary.jpg
+![Dashboard - Page 2: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Time%20Analysis.jpg
+![Dashboard - Page 3: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Contributing%20Factor.jpg
 
