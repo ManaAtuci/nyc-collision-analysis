@@ -22,8 +22,8 @@ This project analyzes 238,000 motor vehicle collisions reported by the NYPD from
 
 
 ## Dashboard Overview
-* **![Dashboard - Page 1: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Executive%20Summary.jpg
-* **![Dashboard - Page 2: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Time%20Analysis.jpg
-* **![Dashboard - Page 3: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Contributing%20Factor.jpg
-* **![Dashboard - Page 4: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Severity%20%26%20Impact.jpg
+*  **![Dashboard - Page 1: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Executive%20Summary.jpg
+*  **![Dashboard - Page 2: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Time%20Analysis.jpg
+*  **![Dashboard - Page 3: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Contributing%20Factor.jpg
+*  **![Dashboard - Page 4: https://github.com/ManaAtuci/nyc-collision-analysis/blob/main/NYC%20Severity%20%26%20Impact.jpg
 
